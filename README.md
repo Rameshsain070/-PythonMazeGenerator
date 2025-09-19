@@ -1,1 +1,2 @@
-# -PythonMazeGenerator
+# PythonMazeGenerator
+PythonMazeGenerator
